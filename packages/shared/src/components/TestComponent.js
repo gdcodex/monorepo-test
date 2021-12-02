@@ -4,7 +4,7 @@ export default class TestComponent extends Component {
     render() {
         return (
             <div>
-                Test Shared Component
+                Test Shared Component 1
             </div>
         )
     }
